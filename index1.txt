@@ -1,0 +1,217 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adithya Export & Import</title>
+    <link rel="stylesheet" href="styles.css">
+   
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo">Adithya Export & Import</div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero" id="home">
+        <h1>Global Trade Solutions</h1>
+        <p>Delivering Quality Products Worldwide</p>
+        <a href="#products" class="btn">View Products</a>
+    </header>
+
+    <!-- About Us Section -->
+    <section class="about" id="about">
+        <div class="about-content">
+            <h2>Who We Are</h2>
+            <p>At Adithya Exports & Imports, we are committed to delivering high-quality products to global markets. Specializing in the export of agricultural produce, processed foods, dairy, minerals, and more, we ensure premium quality, timely delivery, and seamless trade solutions.</p>
+        </div>
+        <div class="about-image">
+            <img src="" alt="About Us">
+        </div>
+    </section>
+
+    <!-- Our Products Section -->
+    <section class="products" id="products">
+        <h2>Our Products</h2>
+        <div class="product-list">
+            <!-- agri products -->
+          <h2> Agri products</h2>
+            <div class="product-card">
+                <img src="fresh-vegetables.jpg" alt="Fresh Vegetables">
+                <h3>Fresh Vegetables</h3>
+                <p>Fresh Vegetables & Fruits Export 🍎🥦🌍
+                    We export farm-fresh vegetables and fruits, sourced from trusted growers to ensure superior quality, taste, and nutritional value. Our produce is carefully selected, hygienically packed, and meets international export standards.
+                    
+                    Why Choose Our Fresh Produce?
+                    ✅ 100% Natural & Pesticide-Free
+                    ✅ Farm-Fresh & Nutrient-Rich
+                    ✅ Premium Quality & Hygienic Packaging
+                    ✅ Reliable Global Shipping
+                    
+                    We supply a wide variety of seasonal and exotic produce, ensuring freshness from farm to.</p>
+            </div>
+
+
+            <div class="product-card">
+                <img src="dry-vegies1.jpeg" alt="Dehydrated Vegetables">
+                <h3>Dehydrated Vegetables</h3>
+                <p>Dehydrated Vegetables & Fruits Export 🍏🥕🌍
+                    We supply premium-quality dehydrated vegetables and fruits, preserving their natural taste, nutrients, and long shelf life. Perfect for food processing, snacks, and culinary applications.
+                    
+                    Why Choose Our Dehydrated Products?
+                    ✅ 100% Natural & Nutrient-Rich
+                    ✅ No Artificial Preservatives
+                    ✅ Long Shelf Life & Convenient Storage
+                    ✅ Custom Packaging & Bulk Supply
+                    
+                    We ensure top-grade quality with hygienic processing and global shipping.</p>
+            </div>
+
+
+            <div class="product-card">
+                <img src="dehydrated-ghee.jpg" alt="Dehydrated Ghee">
+                <h3>Dehydrated Ghee</h3>
+                <p>Pure Ghee Export 🧈🌍
+                    We export premium-quality ghee, made from the finest dairy sources, ensuring rich aroma, taste, and nutrition. Our ghee is processed under strict hygiene standards to retain its purity and health benefits.
+                    
+                    Why Choose Our Ghee?
+                    ✅ 100% Pure & Natural
+                    ✅ Rich in Vitamins & Healthy Fats
+                    ✅ Long Shelf Life & Premium Packaging
+                    ✅ Halal & International Quality Certified
+                    
+                    Ideal for cooking, Ayurveda, and commercial use. We offer bulk supply with reliable global.</p>
+            </div>
+
+        
+            <div class="product-card">
+                <img src="fresh-fruits.jpg" alt="Fresh Fruits">
+                <h3>Fresh Fruits</h3>
+                <p>Fresh Vegetables & Fruits Export 🍎🥦🌍
+                    We export farm-fresh vegetables and fruits, sourced from trusted growers to ensure superior quality, taste, and nutritional value. Our produce is carefully selected, hygienically packed, and meets international export standards.
+                    
+                    Why Choose Our Fresh Produce?
+                    ✅ 100% Natural & Pesticide-Free
+                    ✅ Farm-Fresh & Nutrient-Rich
+                    ✅ Premium Quality & Hygienic Packaging
+                    ✅ Reliable Global Shipping
+                    
+                    We supply a wide variety of seasonal and exotic produce, ensuring freshness from farm to.</p>
+            </div>
+        </div> 
+            <div class="product-list">
+                <h2>meat and eggs </h2>
+              <!-- meat and eggs-->
+              <div class="product-card">
+                    <img src="eggs.jpeg" alt="Fresh Fruits">
+                    <h3>eggs</h3>
+                    <p>Fresh Egg Export 🥚🌍
+                        We supply high-quality fresh eggs, sourced from healthy, well-nurtured poultry farms. Our eggs are carefully selected, cleaned, and packed to meet international export standards.
+                        
+                        Why Choose Our Eggs?
+                        ✅ Fresh, Nutrient-Rich & Farm-Sourced
+                        ✅ Various Sizes & Grades Available
+                        ✅ Safe & Hygienic Packaging
+                        ✅ Reliable Global Shipping
+                        
+                        We ensure timely delivery with temperature-controlled logistics to maintain freshness. Partner with us for bulk orders and seamless export services!.</p>
+                </div>   
+
+              <div class="product-card">
+                <img src="meat.jpeg" alt="Fresh Fruits">
+                <h3>meat</h3>
+                <p>We specialize in exporting high-quality goat meat, sourced from healthy, farm-raised livestock. Our meat is processed under strict hygiene and international standards to ensure premium quality, freshness, and safety.
+
+                    Why Choose Our Goat Meat?
+                    ✅ Fresh & Halal Certified
+                    ✅ Premium Cuts & Custom Packaging
+                    ✅ Strict Quality Control & Hygiene Standards
+                    ✅ Competitive Pricing & Reliable Shipping
+                    
+                    We export to major global markets, ensuring timely delivery with proper cold chain management. Contact us today for bulk orders and partnership opportunities!.</p>
+             </div>  
+             </div> 
+        
+        
+        <div class="product-list">
+          <h2>animal feed </h2>
+            <div class="product-card">
+                <img src="Spirulina.jpeg" alt=" Spirulina">
+                <h3>Grenera Spirulina</h3>
+                <p>Spirulina Export 🌿🌍
+                    We export premium-quality Spirulina, a nutrient-rich superfood packed with protein, vitamins, and antioxidants. Sourced from trusted farms, our Spirulina is processed under strict quality control to ensure purity and effectiveness.
+                    
+                    Why Choose Our Spirulina?
+                    ✅ 100% Natural & Organic
+                    ✅ Rich in Protein, Vitamins & Antioxidants
+                    ✅ Available in Powder & Tablet Form
+                    ✅ Certified & Hygienically Packed
+                    
+                    Ideal for health supplements, cosmetics, and food industries. We offer bulk supply with reliable global shipping.</p>
+            </div>
+            
+            
+            
+            <div class="product-card">
+                <img src="cottonseed.jpeg" alt="Eggs & Meat">
+                <h3>Cotton Seed Cake</h3>
+                <p>Cotton Seed Cake for Animal Feed 🐄🌿
+                    We supply high-quality Cotton Seed Cake, a nutritious and protein-rich feed for livestock. It is a byproduct of cottonseed oil extraction, packed with essential nutrients to enhance animal health and productivity.
+                    
+                    Why Choose Our Cotton Seed Cake?
+                    ✅ High Protein & Fiber Content
+                    ✅ 100% Natural & Chemical-Free
+                    ✅ Enhances Livestock Growth & Milk Production
+                    ✅ Bulk Supply & Custom Packaging
+                    
+                    Ideal for cattle, poultry, and other livestock feed. We ensure premium quality with reliable global shipping.</p>
+            </div>
+
+        </div>
+            
+    </section>
+
+    <!-- Contact Form -->
+    <section class="contact" id="contact">
+        <h2>Get in Touch</h2>
+        <p>We are here to assist you!</p>
+        <form id="contact-form">
+            <label for="name">Name *</label>
+            <input type="text" id="name" name="name" placeholder="Jane Smith" required>
+            
+            <label for="email">Email *</label>
+            <input type="email" id="email" name="email" placeholder="email@website.com" required>
+            
+            <label for="phone">Phone *</label>
+            <input type="tel" id="phone" name="phone" placeholder="555-555-5555" required>
+            
+            <label for="message">Message</label>
+            <textarea id="message" name="message"></textarea>
+            
+            <input type="checkbox" id="consent" required> I allow this website to store my submission.
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>Phone: 8639476216, 7093076216</p>
+            <p>Address: 123 Trade St, Global City</p>
+            <p>Email:  adithyaexports3@gmail.com</p>
+            
+
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
